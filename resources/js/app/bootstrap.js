@@ -1,3 +1,5 @@
+// this is JS bootstrap file for app.js
+
 window._ = require('lodash');
 
 /**
